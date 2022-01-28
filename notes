@@ -1,0 +1,13 @@
+Nutritional Analysis API:
+    zestfuldata.com --> NLP for ingredients and preparation, match with USDA nutritional information
+    edamam.com --> nutritional analysis API
+
+    https://github.com/mtlynch/ingredient-phrase-tagger
+    https://github.com/KitchenPC/core
+
+NTY ingredient phrase tagger:
+    https://github.com/NYTimes/ingredient-phrase-tagger 
+    https://github.com/mtlynch/ingredient-phrase-tagger
+
+CRF++ CRF training toolkit
+    https://taku910.github.io/crfpp/

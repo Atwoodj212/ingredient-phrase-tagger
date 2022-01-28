@@ -1,0 +1,1 @@
+JSONTYPE = {'type': 'application/ld+json'}
